@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2020  AtomOS Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+
+<!-- DashBoard Custom Colors -->
+    <color name="atom_dashboard_wireless">#B3E5FC</color>
+    <color name="atom_dashboard_devices_other">#90CAF9</color>
+    <color name="atom_dashboard_apps">#FFCDD2</color>
+    <color name="atom_dashboard_battery">#B2EBF2</color>
+    <color name="atom_dashboard_display">#FFF59D</color>
+    <color name="atom_dashboard_sound">#A7FFEB</color>
+    <color name="atom_dashboard_storage">#9575CD</color>
+    <color name="atom_dashboard_security">#A7FFEB</color>
+    <color name="atom_dashboard_accounts">#FCE4EC</color>
+    <color name="atom_dashboard_accessibility">#D1C4E9</color>
+    <color name="atom_dashboard_system">#FAFAFA</color>
+
+
+</resources>
