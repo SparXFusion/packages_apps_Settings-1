@@ -25,6 +25,6 @@
     <color name="atom_dashboard_accounts">#FCE4EC</color>
     <color name="atom_dashboard_accessibility">#D1C4E9</color>
     <color name="atom_dashboard_system">#FAFAFA</color>
-
+    <color name="icon_color_atom">#8e98f5</color>
 
 </resources>
